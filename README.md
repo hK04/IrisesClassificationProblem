@@ -1,7 +1,7 @@
 # IrisesClassificationProblem
 My first neural network ever written
 ```
-main.py - The Neural Network, it takes coefficients from coef.txt
+main.py - The Neural Network, it completes classification based on coefficients given from training.py
 ```
 
 ```
